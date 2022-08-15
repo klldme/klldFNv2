@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: SilverBotFN
+Version: 1.0.0
+Summary: Package For SilverBot
+Home-page: UNKNOWN
+Author: mxnty
+Author-email: silverbotbusiness@protonmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# Welcome 🥳
+SilverBot is a free and unbranded fortnite lobby bot and lets you view all fortnite cosmetics
+
+## Support
+[Join my discord](discord.gg/TxK3paaZTy)
+

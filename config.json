@@ -1,0 +1,32 @@
+{
+    "Account": {
+      "Email": "email@email.com",
+      "Prefix": "!"
+    },
+    "Control": { 
+      "Give full access to": ["kll.D.BOT"],
+      "Public Bot": "false" 
+    },
+    "Party": {
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "DefaultColor24",
+          "Banner Name": "InfluencerBanner27",
+          "Season Level": 135,
+          "battle pass tier": -135
+        },
+        "Skin": "CID_175_Athena_Commando_M_Celestial",
+        "Backpack": "BID_771_Lasso_ZN4VA",
+        "Pickaxe": "Dev_Test_Pickaxe",
+        "Emote": "EID_Chilled"
+      },
+      "Platform": "WIN",
+      "Join party on invitation": "false", 
+      "Status": "💎{party_size}/16 www.klld.tk💎"
+      
+},
+    "Friends": {
+      "Accept all friend requests": "true" 
+    } 
+   
+  }
